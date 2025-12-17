@@ -1,6 +1,6 @@
 # PaintCan
 
-![PaintCan Social Preview](.github/social%20preview/bettercolors_social_preview.jpg)
+![PaintCan Social Preview](.github/social%20preview/paintcan_social_preview.jpg)
 
 **PaintCan** is a high-quality, Pythonic library for working with HSBA colors and generating beautiful, algorithmic color schemes. It provides robust tools for color manipulation and harmony generation.
 
